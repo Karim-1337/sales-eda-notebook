@@ -1,0 +1,16 @@
+date,region,product,units,revenue
+2025-01-05,North,Widget A,14,420.50
+2025-01-06,South,Widget A,11,330.00
+2025-01-12,East,Widget B,9,405.00
+2025-01-18,North,Widget B,16,720.00
+2025-01-22,West,Widget A,8,240.00
+2025-02-03,South,Widget B,12,540.00
+2025-02-14,North,Widget A,19,570.00
+2025-02-20,East,Widget A,10,300.00
+2025-03-01,West,Widget B,7,315.00
+2025-03-09,North,Widget B,15,675.00
+2025-03-21,South,Widget A,18,540.00
+2025-04-02,East,Widget B,13,585.00
+2025-04-15,North,Widget A,12,360.00
+2025-04-28,West,Widget A,14,420.00
+2025-05-04,South,Widget B,10,450.00
